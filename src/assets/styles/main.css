@@ -1,0 +1,11 @@
+@import "./variables.css";
+@import "@/components/header/header.css";
+
+:root {
+    font-family: "CustomFont", sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
